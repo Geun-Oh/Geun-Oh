@@ -35,6 +35,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geun-Oh&langs_count=10&layout=compact&theme=cobalt)](https://github.com/Geun-Oh/Geun-Oh)
+
 ### Algorithm Problem Solving (at BOJ, with python & javascript)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kandy1002)](https://solved.ac/kandy1002/)
