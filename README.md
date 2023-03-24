@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Stroybook-FF4785?style=flat-square&logo=Storybook&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" /></a>
 
 ### Studying.
 
