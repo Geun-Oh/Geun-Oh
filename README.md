@@ -18,6 +18,11 @@
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
+### Activities
+
+- SOPT 32th WEB Part (23.04~23.07)
+- AUSG 7th (23.07~)
+
 ### Github Activities
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
