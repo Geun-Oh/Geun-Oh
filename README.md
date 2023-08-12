@@ -20,24 +20,19 @@
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-## Articles
+## Studies.
 
-<hr />
-
-<div>
-  
-</div>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kandy1002)](https://velog.io/@kandy1002) 
-
-
-## Activities
-
-<hr />
+### Activities
 
 SOPT 32th WEB Part MVP (23.04~23.07)
 
 AUSG 7th Crew (23.07~)
+
+
+### Articles
+
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kandy1002)](https://velog.io/@kandy1002) 
 
 ### Github Activities
 
