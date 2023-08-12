@@ -1,3 +1,5 @@
+<div align='center'>
+
 # Geun-Oh
   
   <br />
@@ -18,10 +20,24 @@
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-### Activities
+## Articles
 
-- SOPT 32th WEB Part (23.04~23.07)
-- AUSG 7th (23.07~)
+<hr />
+
+<div>
+  
+</div>
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kandy1002)](https://velog.io/@kandy1002) 
+
+
+## Activities
+
+<hr />
+
+SOPT 32th WEB Part MVP (23.04~23.07)
+
+AUSG 7th Crew (23.07~)
 
 ### Github Activities
 
@@ -36,7 +52,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kandy1002)](https://solved.ac/kandy1002/)
 
 ## For more info about me
-[Geun-Oh | F.E. Developer](https://patch-strand-bb8.notion.site/F-E-Developer-7d29ae91483c4c4392d7efd31984550c)
+
+[Geun-Oh | F.E. Developer](https://my.surfit.io/w/1372353382)
+
+</div>
 
 <!---
 Geun-Oh/Geun-Oh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
