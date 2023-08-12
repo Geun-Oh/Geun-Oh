@@ -34,6 +34,8 @@ AUSG 7th Crew (23.07~)
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kandy1002)](https://velog.io/@kandy1002) 
 
+## Info.
+
 ### Github Activities
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
