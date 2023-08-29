@@ -1,15 +1,10 @@
 <div align='center'>
 
 # Geun-Oh
-  
-  <br />
-  
- 🌈**Developer exploring interesting UX**🧭 <br />
- 🧐**Trying to make 1 day 1 commit**✍️
 
- **RESUME: [Geun-Oh | F.E. Developer](https://my.surfit.io/w/1372353382)**
-  
-  <br />
+  ### RESUME
+
+ **[Geun-Oh | F.E. Developer](https://my.surfit.io/w/1372353382)**
 
 ## Tech Skills.
 
