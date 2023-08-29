@@ -6,6 +6,8 @@
   
  🌈**Developer exploring interesting UX**🧭 <br />
  🧐**Trying to make 1 day 1 commit**✍️
+
+ **RESUME: [Geun-Oh | F.E. Developer](https://my.surfit.io/w/1372353382)**
   
   <br />
 
@@ -47,10 +49,6 @@ AUSG 7th Crew (23.07~)
 ### Algorithm Problem Solving (at BOJ, with python & javascript)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kandy1002)](https://solved.ac/kandy1002/)
-
-## For more info about me
-
-[Geun-Oh | F.E. Developer](https://my.surfit.io/w/1372353382)
 
 </div>
 
