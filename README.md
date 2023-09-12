@@ -25,6 +25,12 @@ SOPT 32th WEB Part MVP (23.04~23.07)
 
 AUSG 7th Crew (23.07~)
 
+### Contribution
+
+Contributor of Next.js/kr docs translation ([Next.js/kr](https://github.com/Nextjs-kr))
+
+Maintainer of Jira-Github-Release-Automation ([Jira-Github-Release-Automation](https://github.com/marketplace/actions/jira-github-release-automation))
+
 
 ### Articles
 
