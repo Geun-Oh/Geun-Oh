@@ -1,5 +1,3 @@
-<div align='center'>
-
 # Geun-Oh
 
   ### RESUME
@@ -50,8 +48,6 @@ Maintainer of Jira-Github-Release-Automation ([Jira-Github-Release-Automation](h
 ### Algorithm Problem Solving (at BOJ, with python & javascript)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kandy1002)](https://solved.ac/kandy1002/)
-
-</div>
 
 <!---
 Geun-Oh/Geun-Oh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
