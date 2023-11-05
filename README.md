@@ -12,7 +12,7 @@
 
 - Contributor of Next.js/kr docs translation ([Next.js/kr](https://github.com/Nextjs-kr))
 
-- Maintainer of Jira-Github-Release-Automation ([Jira-Github-Release-Automation](https://github.com/marketplace/actions/jira-github-release-automation))
+- Maintainer of Jira-Github-Release-Automation ([Jira-Github-Release-Automation-with-go](https://github.com/marketplace/actions/jira-github-release-automation-with-go))
 
 ## Activities
 
