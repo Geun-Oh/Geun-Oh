@@ -1,53 +1,32 @@
-# Geun-Oh
-
-  ### RESUME
-
- **[Geun-Oh | F.E. Developer](https://my.surfit.io/w/1372353382)**
-
-## Tech Skills.
-
-### Studying.
-
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
-
-### Tools.
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-## Studies.
-
-### Activities
-
-SOPT 32th WEB Part MVP (23.04~23.07)
-
-AUSG 7th Crew (23.07~)
-
-### Contribution
-
-Contributor of Next.js/kr docs translation ([Next.js/kr](https://github.com/Nextjs-kr))
-
-Maintainer of Jira-Github-Release-Automation ([Jira-Github-Release-Automation](https://github.com/marketplace/actions/jira-github-release-automation))
-
-
-### Articles
-
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kandy1002)](https://velog.io/@kandy1002) 
-
-## Info.
-
-### Github Activities
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-### Most Used Languages
+## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geun-Oh&langs_count=10&layout=compact&theme=cobalt)](https://github.com/Geun-Oh/Geun-Oh)
 
-### Algorithm Problem Solving (at BOJ, with python & javascript)
+## Activities
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kandy1002)](https://solved.ac/kandy1002/)
+- SOPT 32th WEB Part MVP (23.04~23.07)
+
+- AUSG 7th Crew (23.07~)
+
+## Contribution
+
+- Contributor of Next.js/kr docs translation ([Next.js/kr](https://github.com/Nextjs-kr))
+
+- Maintainer of Jira-Github-Release-Automation ([Jira-Github-Release-Automation](https://github.com/marketplace/actions/jira-github-release-automation))
+
+## Activities
+
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=kandy1002)](https://velog.io/@kandy1002)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+## RESUME
+
+ **[Geun-Oh](https://my.surfit.io/w/1372353382)**
+
+<!---### Algorithm Problem Solving (at BOJ, with python & javascript)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kandy1002)](https://solved.ac/kandy1002/)--->
 
 <!---
 Geun-Oh/Geun-Oh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
