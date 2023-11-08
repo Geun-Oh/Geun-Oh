@@ -1,8 +1,8 @@
 ## Activities
 
-- SOPT 32th WEB Part MVP (23.04~23.07)
+- AWSKRUG University Student Group 7th Crew (23.07~)
 
-- AUSG 7th Crew (23.07~)
+- SOPT 32th WEB Part MVP (23.04~23.07)
 
 ## Contribution
 
