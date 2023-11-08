@@ -1,7 +1,3 @@
-<h2 align='center'>Love nailing something hard to achieve</h2>
-<br />
-<br />
-
 ## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geun-Oh&langs_count=10&layout=compact&theme=cobalt)](https://github.com/Geun-Oh/Geun-Oh)
