@@ -1,7 +1,3 @@
-## Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geun-Oh&langs_count=10&layout=compact&theme=cobalt)](https://github.com/Geun-Oh/Geun-Oh)
-
 ## Activities
 
 - SOPT 32th WEB Part MVP (23.04~23.07)
@@ -13,6 +9,11 @@
 - Contributor of Next.js/kr docs translation ([Next.js/kr](https://github.com/Nextjs-kr))
 
 - Maintainer of Jira-Github-Release-Automation ([Jira-Github-Release-Automation-with-go](https://github.com/marketplace/actions/jira-github-release-automation-with-go))
+
+## Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geun-Oh&langs_count=10&layout=compact&theme=cobalt)](https://github.com/Geun-Oh/Geun-Oh)
+
 
 ## Activities
 
