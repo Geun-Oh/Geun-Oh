@@ -1,10 +1,16 @@
+## Who am I?
+
+- FE Platform Enginner
+- Study ways to make pipelines and decouple applications with Cloud Services(AWS, GCP,, etc.) at Frontend
+- Make Better UX/DX with automating business logics 
+
 ## 🏃 Activities
 
 - AWSKRUG University Student Group 7th Crew (23.07~)
 
 - SOPT 32th WEB Part MVP (23.04~23.07)
 
-## 📖 Contribution
+## 📖 Contributions
 
 - Contributor of Next.js/kr docs translation ([Next.js/kr](https://github.com/Nextjs-kr))
 
