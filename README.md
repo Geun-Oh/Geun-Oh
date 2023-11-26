@@ -1,7 +1,7 @@
 ## Who am I?
 
-- FE Platform Enginner
-- Study ways to make pipelines and decouple applications with Cloud Services(AWS, GCP,, etc.) at Frontend
+- Platform Enginner
+- Study ways to make pipelines and decouple applications with Cloud Services(AWS, GCP,, etc.)
 - Make Better UX/DX with automating business logics 
 
 ## 🏃 Activities
