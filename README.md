@@ -1,7 +1,7 @@
 ## Who am I?
 
 - Platform Enginner
-- Study ways to make pipelines and decouple applications with Cloud Services(AWS, GCP,, etc.)
+- Study ways to make internal developer platform and decouple applications with Cloud Services(AWS, GCP,, etc.)
 - Make Better UX/DX with automating business logics 
 
 ## 🏃 Activities
