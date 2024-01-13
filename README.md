@@ -1,6 +1,6 @@
 ## Who am I?
 
-- Platform Enginner
+- Do not distinguish means for business impact.
 - Study ways to make internal developer platform and decouple applications with Cloud Services(AWS, GCP,, etc.)
 - Make Better UX/DX with automating business logics 
 
