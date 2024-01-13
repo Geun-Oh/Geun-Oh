@@ -2,9 +2,16 @@
 
 - Do not distinguish means for business impact.
 - Study ways to make internal developer platform and decouple applications with Cloud Services(AWS, GCP,, etc.)
-- Make Better UX/DX with automating business logics 
+- Make Better UX/DX with automating business logics
+
+
+## Work Experience
+
+- TG Society | Frontend Engineer (23.06~23.11)
 
 ## 🏃 Activities
+
+- AWSKRUG Platform Engineering Core Member (23.12~)
 
 - AWSKRUG University Student Group 7th Crew (23.07~)
 
