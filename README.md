@@ -19,9 +19,9 @@
 
 ## 📖 Contributions
 
-- Contributor of Next.js/kr docs translation ([Next.js/kr](https://github.com/Nextjs-kr))
-
 - Maintainer of Jira-Github-Release-Automation ([Jira-Github-Release-Automation-with-go](https://github.com/marketplace/actions/jira-github-release-automation-with-go))
+
+- Maintainer of JSDoc-Visualizer ([JSDoc-Visualizer]([https://github.com/marketplace/actions/jira-github-release-automation-with-go](https://www.npmjs.com/package/@geunoh/jsdoc-visualizer)))
 
 ## 📊 Stats:
 
