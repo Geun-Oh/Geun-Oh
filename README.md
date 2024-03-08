@@ -31,7 +31,6 @@
 
 ## More Info
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=kandy1002)](https://velog.io/@kandy1002) <br />
- **[Geun-Oh](https://my.surfit.io/w/1372353382)**
 
 <!---### Algorithm Problem Solving (at BOJ, with python & javascript)
 ![Geun-Oh github stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
