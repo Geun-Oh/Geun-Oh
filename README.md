@@ -7,11 +7,8 @@
 - [AWSKRUG Platform Engineering Community](https://github.com/awskrug/platform-engineering-group) Core Member (23.12~)
 - [AWSKRUG University Student Group](https://ausg.me) 7th Crew (23.07~)
 - SOPT 32th WEB Part (23.04~23.07)
-
-## 📖 Contributions & Maintainings
-
-- Jira-Github-Release-Automation ([Jira-Github-Release-Automation-with-go](https://github.com/marketplace/actions/jira-github-release-automation-with-go))
-- JSDoc-Visualizer ([JSDoc-Visualizer](https://www.npmjs.com/package/@geunoh/jsdoc-visualizer))
+- AWS Certified Solutions Architect - Associate
+- AWS Certified DevOps Engineer - Professional
 
 <!---### Algorithm Problem Solving (at BOJ, with python & javascript)
 ![Geun-Oh github stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
