@@ -7,8 +7,15 @@
 - [AWSKRUG Platform Engineering Community](https://github.com/awskrug/platform-engineering-group) Core Member (23.12~)
 - [AWSKRUG University Student Group](https://ausg.me) 7th Crew (23.07~)
 - SOPT 32th WEB Part (23.04~23.07)
-- AWS Certified Solutions Architect - Associate
+
+## 📖 Contributions & Maintainings
+
+- [gofiber/storage](https://github.com/gofiber/storage/): Add CloudflareKV storage driver in fiber & test module of wrangler ([#1298](https://github.com/gofiber/storage/pull/1298)...ing)
+
+## Etc.
 - AWS Certified DevOps Engineer - Professional
+- AWS Certified Solutions Architect - Associate
+
 
 <!---### Algorithm Problem Solving (at BOJ, with python & javascript)
 ![Geun-Oh github stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
