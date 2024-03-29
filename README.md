@@ -8,7 +8,7 @@
 - [AWSKRUG University Student Group](https://ausg.me) 7th Crew (23.07~)
 - SOPT 32th WEB Part (23.04~23.07)
 
-## 📖 Contributions & Maintainings
+## 📖 Contributions
 
 - [gofiber/storage](https://github.com/gofiber/storage/): Add CloudflareKV storage driver in fiber & test module of wrangler ([#1298](https://github.com/gofiber/storage/pull/1298)...ing)
 
