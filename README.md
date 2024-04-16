@@ -1,4 +1,4 @@
-## Work Experience
+## 💼 Work Experience
 
 - TG Society | Frontend Engineer (23.06~23.11)
 
@@ -14,9 +14,10 @@
 - [gofiber/storage](https://github.com/gofiber/storage/): Add CloudflareKV storage driver using in fiber & test module of cloudflare wrangler ([#1298](https://github.com/gofiber/storage/pull/1298))
 - [kubeslice/kubeslice-monitoring](https://github.com/kubeslice/kubeslice-monitoring): Refactor format of event creation log ([#40](https://github.com/kubeslice/kubeslice-monitoring/pull/40))
 
-## Etc.
+## 📝 Certifications
 - AWS Certified DevOps Engineer - Professional
 - AWS Certified Solutions Architect - Associate
+- SQL Developer
 
 
 <!---### Algorithm Problem Solving (at BOJ, with python & javascript)
