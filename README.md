@@ -11,7 +11,8 @@
 ## 📖 Maintenance & Contributions
 
 - [AWSKRUG Platform Engineering Glossary](https://github.com/awskrug/platform-engineering-glossary): Maintaining glossary & translations with core members (2024.02~)
-- [gofiber/storage](https://github.com/gofiber/storage/): Add CloudflareKV storage driver using in fiber & test module of wrangler ([#1298](https://github.com/gofiber/storage/pull/1298)...ing)
+- [gofiber/storage](https://github.com/gofiber/storage/): Add CloudflareKV storage driver using in fiber & test module of cloudflare wrangler ([#1298](https://github.com/gofiber/storage/pull/1298))
+- [kubeslice/kubeslice-monitoring](): Refactor format of event creation log ([#40](https://github.com/kubeslice/kubeslice-monitoring/pull/40))
 
 ## Etc.
 - AWS Certified DevOps Engineer - Professional
