@@ -6,7 +6,7 @@
 
 - [AWSKRUG Platform Engineering Community](https://github.com/awskrug/platform-engineering-group) Core Member (23.12~)
 - [AWSKRUG University Student Group](https://ausg.me) 7th Crew & 8th Co-Organizer (23.07~)
-- SOPT 32th WEB Part, Got MVP (23.04~23.07)
+- SOPT 32th WEB Part, got MVP (23.04~23.07)
 
 ## 📖 Maintenance & Contributions
 
