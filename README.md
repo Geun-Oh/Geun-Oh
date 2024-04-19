@@ -11,7 +11,7 @@
 ## 📖 Maintenance & Contributions
 
 - [AWSKRUG Platform Engineering Glossary](https://github.com/awskrug/platform-engineering-glossary): Maintaining glossary & translations with core members (2024.02~)
-- [gofiber/storage](https://github.com/gofiber/storage/): Add CloudflareKV storage driver using in fiber & test module of cloudflare wrangler ([#1298](https://github.com/gofiber/storage/pull/1298))
+- [gofiber/storage](https://github.com/gofiber/storage/): Add Cloudflare KV storage driver using in fiber & test module of Cloudflare Wrangler ([#1298](https://github.com/gofiber/storage/pull/1298))
 - [kubeslice/kubeslice-monitoring](https://github.com/kubeslice/kubeslice-monitoring): Refactor format of event creation log ([#40](https://github.com/kubeslice/kubeslice-monitoring/pull/40))
 - Typo fix at gin-gonic/website ([#269](https://github.com/gin-gonic/website/pull/269#event-12523523723)).
 
