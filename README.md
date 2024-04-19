@@ -21,7 +21,7 @@
 - SQL Developer
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Geun-Oh" width="240" height="120"/>
+  <img src="https://render.gitanimals.org/farms/Geun-Oh" width="480" height="240"/>
 </a>
 
 <!---### Algorithm Problem Solving (at BOJ, with python & javascript)
