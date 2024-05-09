@@ -20,9 +20,7 @@
 - AWS Certified - Solutions Architect Associate
 - SQL Developer
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Geun-Oh" width="480" height="240"/>
-</a>
+
 
 <!---### Algorithm Problem Solving (at BOJ, with python & javascript)
 ![Geun-Oh github stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
@@ -31,6 +29,10 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/Geun-Oh" />
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Geun-Oh" width="480" height="240"/>
 </a>
 --->
 
