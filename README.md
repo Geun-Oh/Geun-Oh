@@ -16,8 +16,8 @@
 - Typo fix at gin-gonic/website ([#269](https://github.com/gin-gonic/website/pull/269#event-12523523723)).
 
 ## 📝 Certifications
-- AWS Certified DevOps Engineer - Professional
-- AWS Certified Solutions Architect - Associate
+- AWS Certified - DevOps Engineer Professional
+- AWS Certified - Solutions Architect Associate
 - SQL Developer
 
 <a href="https://github.com/devxb/gitanimals">
