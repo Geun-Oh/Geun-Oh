@@ -1,6 +1,7 @@
 ## 💼 Work Experience
 
-- TG Society | Frontend Engineer (23.06~23.11)
+- Naver Cloud Platform | Software Engineer Intern, Terraform Provider Development (24.08~)
+- TG Society | Frontend Engineer Intern (23.06~23.11)
 
 ## 🏃 Activities
 
