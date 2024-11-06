@@ -23,6 +23,9 @@
 - AWS Certified - Solutions Architect Associate
 - SQL Developer
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Geun-Oh"/>
+</a>
 
 
 <!---### Algorithm Problem Solving (at BOJ, with python & javascript)
