@@ -23,9 +23,6 @@
 - AWS Certified - Solutions Architect Associate
 - SQL Developer
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Geun-Oh"/>
-</a>
 
 
 <!---### Algorithm Problem Solving (at BOJ, with python & javascript)
@@ -33,12 +30,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kandy1002)](https://solved.ac/kandy1002/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Geun-Oh" />
-</a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Geun-Oh" width="480" height="240"/>
+  <img src="https://render.gitanimals.org/farms/Geun-Oh"/>
 </a>
 --->
 
