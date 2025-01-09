@@ -11,9 +11,12 @@
 
 ## 📖 Maintenance & Contributions
 
+**Major**
 - [gofiber/storage](https://github.com/gofiber/storage/): Add Cloudflare KV storage driver using in fiber & test module of Cloudflare Wrangler ([#1298](https://github.com/gofiber/storage/pull/1298))
 - [caddyserver/caddy](https://github.com/caddyserver/caddy): Disable HTTP/3 for unix domain socket ([#6769](https://github.com/caddyserver/caddy/pull/6769))
 - [getsops/sops](https://github.com/getsops/sops): Add support for kms key aliases ([#1537](https://github.com/getsops/sops/pull/1537)) (Currently Working)
+
+**Minor (non-core)**
 - [kubeslice/kubeslice-monitoring](https://github.com/kubeslice/kubeslice-monitoring): Refactor format of event creation log ([#40](https://github.com/kubeslice/kubeslice-monitoring/pull/40))
 - Typo fix at gin-gonic/website ([#269](https://github.com/gin-gonic/website/pull/269#event-12523523723)).
 
