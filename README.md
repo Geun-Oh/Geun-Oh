@@ -5,7 +5,7 @@
 
 ## 🏃 Activities
 
-- [Golang Korea](https://github.com/golangkorea) Organizer (24.06~)
+- [Golang Korea](https://github.com/golangkorea) Organizer (24.06~25.01)
 - [AWSKRUG University Student Group](https://ausg.me) 7th Crew & 8th Co-Organizer (23.07~)
 - SOPT 32th WEB Part, got MVP (23.04~23.07)
 
