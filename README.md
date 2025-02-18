@@ -15,7 +15,6 @@
 - [gofiber/storage](https://github.com/gofiber/storage/): Add Cloudflare KV storage driver using in fiber & test module of Cloudflare Wrangler ([#1298](https://github.com/gofiber/storage/pull/1298))
 - [caddyserver/caddy](https://github.com/caddyserver/caddy): Disable HTTP/3 for unix domain socket ([#6769](https://github.com/caddyserver/caddy/pull/6769))
 - [biomejs/biome](https://github.com/biomejs/biome): Apply line break with multiple attributes in multiline configuration ([#4984](https://github.com/biomejs/biome/pull/4984))
-- [getsops/sops](https://github.com/getsops/sops): Add support for kms key aliases ([#1537](https://github.com/getsops/sops/pull/1537)) (Currently Working)
 
 **Minor (non-core)**
 - [kubeslice/kubeslice-monitoring](https://github.com/kubeslice/kubeslice-monitoring): Refactor format of event creation log ([#40](https://github.com/kubeslice/kubeslice-monitoring/pull/40))
