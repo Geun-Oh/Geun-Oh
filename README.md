@@ -1,5 +1,6 @@
 ## 💼 Work Experience
 
+- Amazon Web Services | Professional Services, Cloud Consultant Intern (25.06~25.12)
 - Naver Cloud Platform | Software Engineer Intern, Terraform Provider Development (24.08~25.02)
 - TG Society | Frontend Engineer Intern (23.06~23.11)
 
