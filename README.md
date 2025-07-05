@@ -14,7 +14,7 @@
 
 **Major**
 
-- [geunoh/s3-mcp-server](https://github.com/Geun-Oh/s3-mcp-server): Making own mcp server for seamless S3 bucket content read.
+- [Geun-Oh/s3-mcp-server](https://github.com/Geun-Oh/s3-mcp-server): Making own mcp server for seamless S3 bucket content read.
 - [terraform-plugin-codegen-framework](https://github.com/NaverCloudPlatform/terraform-plugin-codegen-framework): Built codegen CLI tool from scratch (24.08~25.02).
 - [terraform-plugin-codegen-openapi](https://github.com/NaverCloudPlatform/terraform-plugin-codegen-openapi): Built Go SDK codegen tool from scratch (24.08~25.02).
 - [gofiber/storage](https://github.com/gofiber/storage/): Add Cloudflare KV storage driver using in fiber & test module of Cloudflare Wrangler ([#1298](https://github.com/gofiber/storage/pull/1298))
