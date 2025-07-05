@@ -18,6 +18,7 @@
 - [terraform-plugin-codegen-openapi](https://github.com/NaverCloudPlatform/terraform-plugin-codegen-openapi): Built Go SDK codegen tool from scratch (24.08~25.02).
 - [gofiber/storage](https://github.com/gofiber/storage/): Add Cloudflare KV storage driver using in fiber & test module of Cloudflare Wrangler ([#1298](https://github.com/gofiber/storage/pull/1298))
 - [caddyserver/caddy](https://github.com/caddyserver/caddy): Disable HTTP/3 for unix domain socket ([#6769](https://github.com/caddyserver/caddy/pull/6769))
+- [geunoh/s3-mcp-server](https://github.com/Geun-Oh/s3-mcp-server): Made own mcp server for seamless S3 bucket content read.
 - [biomejs/biome](https://github.com/biomejs/biome): Apply line break with multiple attributes in multiline configuration ([#4984](https://github.com/biomejs/biome/pull/4984))
 
 **Minor (non-core)**
