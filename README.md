@@ -12,16 +12,14 @@
 
 ## 📖 Contributions
 
-**Major**
-
+- [haproxy/haproxy](https://github.com/haproxy/haproxy): [PATCH] MINOR: cfgparse: Refactor "userlist" parser to print it in -dKall operation ([maillist](https://www.mail-archive.com/haproxy@formilux.org/msg46391.html))
+- [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io): Update ParentBased sampler description ([#8737](https://github.com/open-telemetry/opentelemetry.io/pull/8737))
 - [Geun-Oh/s3-mcp-server](https://github.com/Geun-Oh/s3-mcp-server): Making own mcp server for seamless S3 bucket content read.
 - [terraform-plugin-codegen-framework](https://github.com/NaverCloudPlatform/terraform-plugin-codegen-framework): Built codegen CLI tool from scratch (24.08~25.02).
 - [terraform-plugin-codegen-openapi](https://github.com/NaverCloudPlatform/terraform-plugin-codegen-openapi): Built Go SDK codegen tool from scratch (24.08~25.02).
 - [gofiber/storage](https://github.com/gofiber/storage/): Add Cloudflare KV storage driver using in fiber & test module of Cloudflare Wrangler ([#1298](https://github.com/gofiber/storage/pull/1298))
 - [caddyserver/caddy](https://github.com/caddyserver/caddy): Disable HTTP/3 for unix domain socket ([#6769](https://github.com/caddyserver/caddy/pull/6769))
 - [biomejs/biome](https://github.com/biomejs/biome): Apply line break with multiple attributes in multiline configuration ([#4984](https://github.com/biomejs/biome/pull/4984))
-
-**Minor (non-core)**
 - [kubeslice/kubeslice-monitoring](https://github.com/kubeslice/kubeslice-monitoring): Refactor format of event creation log ([#40](https://github.com/kubeslice/kubeslice-monitoring/pull/40))
 - Typo fix at gin-gonic/website ([#269](https://github.com/gin-gonic/website/pull/269#event-12523523723)).
 
