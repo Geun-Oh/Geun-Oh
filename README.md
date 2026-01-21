@@ -26,7 +26,7 @@
 ## 📝 Certifications
 - AWS Certified - DevOps Engineer Professional
 - AWS Certified - Solutions Architect Associate
-- SQL Developer
+- Opentelemetry Certified Associate
 
 
 
