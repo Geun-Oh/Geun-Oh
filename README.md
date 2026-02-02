@@ -12,7 +12,7 @@
 
 ## 📖 Contributions
 
-- [haproxy/haproxy](https://github.com/haproxy/haproxy): Contributing to various features [Mails](https://www.mail-archive.com/search?l=haproxy%40formilux.org&q=from%3A%22Hyeonggeun+Oh%22&x=0&y=0) [Commit List](https://github.com/haproxy/haproxy/commits?author=Geun-Oh)
+- [haproxy/haproxy](https://github.com/haproxy/haproxy): Contributing to various features [Mails](https://www.mail-archive.com/search?l=haproxy%40formilux.org&q=from%3A%22Hyeonggeun+Oh%22&x=0&y=0) | [Commit List](https://github.com/haproxy/haproxy/commits?author=Geun-Oh)
 - [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io): Update ParentBased sampler description ([#8737](https://github.com/open-telemetry/opentelemetry.io/pull/8737))
 - [Geun-Oh/s3-mcp-server](https://github.com/Geun-Oh/s3-mcp-server): Making own mcp server for seamless S3 bucket content read
 - [terraform-plugin-codegen-framework](https://github.com/NaverCloudPlatform/terraform-plugin-codegen-framework): Built codegen CLI tool from scratch (24.08~25.02)
