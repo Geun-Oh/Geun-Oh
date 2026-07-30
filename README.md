@@ -13,6 +13,7 @@
 
 ## 📖 Contributions
 
+- [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox): fix(sandbox-router): route by sandbox name from the Pod-IP cache to avoid warm-pool NXDOMAIN 502s ([#1239](https://github.com/kubernetes-sigs/agent-sandbox/pull/1239))
 - [haproxy/haproxy](https://github.com/haproxy/haproxy): Contributing to various features [Mails](https://www.mail-archive.com/search?l=haproxy%40formilux.org&q=from%3A%22Hyeonggeun+Oh%22&x=0&y=0) | [Commit List](https://github.com/haproxy/haproxy/commits?author=Geun-Oh)
 - [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io): Update ParentBased sampler description ([#8737](https://github.com/open-telemetry/opentelemetry.io/pull/8737))
 - [Geun-Oh/s3-mcp-server](https://github.com/Geun-Oh/s3-mcp-server): Making own mcp server for seamless S3 bucket content read
