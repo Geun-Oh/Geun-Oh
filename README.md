@@ -25,12 +25,6 @@
 - [kubeslice/kubeslice-monitoring](https://github.com/kubeslice/kubeslice-monitoring): Refactor format of event creation log ([#40](https://github.com/kubeslice/kubeslice-monitoring/pull/40))
 - Typo fix at gin-gonic/website ([#269](https://github.com/gin-gonic/website/pull/269#event-12523523723))
 
-## 📝 Certifications
-- AWS Certified - DevOps Engineer Professional
-- AWS Certified - Solutions Architect Associate
-- Opentelemetry Certified Associate
-
-
 
 <!---### Algorithm Problem Solving (at BOJ, with python & javascript)
 ![Geun-Oh github stats](https://github-readme-stats.vercel.app/api?username=Geun-Oh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
